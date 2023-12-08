@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "firstName": "Pokemon",
+    "lastName": "Trainer",
+    "email": "user@monoma.com",
+    "password": "1234",
+    "avatar": "/assets/images/avatar.png"
+  }
+]
