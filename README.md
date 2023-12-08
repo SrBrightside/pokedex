@@ -17,7 +17,7 @@ This will start the development server, and you can access the application in yo
 Demo
 ----
 
-You can also check out the online demo of the Pokedex App! [Pokedex Demo](https://pokedex.vercel.app/)
+You can also check out the online demo of the Pokedex App! [Pokedex Demo](https://pokedex-jonathan.vercel.app/)
 
 Features
 --------
