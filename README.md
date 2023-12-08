@@ -19,6 +19,10 @@ Demo
 
 You can also check out the online demo of the Pokedex App! [Pokedex Demo](https://pokedex-jonathan.vercel.app/)
 
+CREDENTIALS:
+email: user@monoma.com
+password: 1234
+
 Features
 --------
 
